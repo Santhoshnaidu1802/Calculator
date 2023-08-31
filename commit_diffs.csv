@@ -1,0 +1,6 @@
+Commit,Status,File
+9d05e1d,M,file2.txt
+90a7a56,A,file2.txt
+58d3feb,A,src/main/java/file.txt
+8adbedb,M,src/main/java/com/houarizegai/calculator/ui/CalculatorUI.java
+96662f0,M,pom.xml
